@@ -9,7 +9,7 @@
 
 int main()
 {
-    // You can test your implementations here
+    // Can test the implementations here
 }
 
 #endif //BROWSERPROJECT_MAIN_BROWSER_H
