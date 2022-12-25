@@ -1,8 +1,6 @@
 #ifndef TAB_H
 #define TAB_H
 
-// DO NOT CHANGE THIS FILE.
-
 #include <iostream>
 
 class Tab
