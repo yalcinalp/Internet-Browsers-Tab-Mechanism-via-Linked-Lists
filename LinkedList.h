@@ -58,7 +58,7 @@ LinkedList<T>::LinkedList(const LinkedList<T> &obj)
     head = NULL;
     size = 0;
     
-    *this = rhs; // use of assignment operator =
+    *this = obj; // use of assignment operator =
 }
 
 
