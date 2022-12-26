@@ -1,6 +1,8 @@
 # Tester
+
 Credit: @ogul1
-Tester was provided by one of my classmates Emirhan Ogul
+
+This tester was provided by one of my classmates Emirhan Ogul
 
 Before start, unzip all the zip files.
 
