@@ -25,6 +25,4 @@ private:
     LinkedList<Window> windows;
 };
 
-
-
 #endif //BROWSER_H
